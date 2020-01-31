@@ -1,0 +1,1 @@
+With this assignment, I took the existing HTML and CSS code and refractored it to make it more efficient and applicable to a variety of web browsers. 
